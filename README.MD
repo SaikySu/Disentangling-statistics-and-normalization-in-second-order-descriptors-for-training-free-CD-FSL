@@ -14,7 +14,7 @@ prototypes are averages of support descriptors, and queries are assigned to the 
 prototype under the Frobenius distance.
 
 <p align="center">
-  <img src="https://github.com/SaikySu/Disentangling-statistics-and-normalization-in-second-order-descriptors-for-training-free-CD-FSL/blob/main/Fig/Fig1.pdf" width="720" alt="Boundary map of the statistic and normalization axes">
+  <img src="https://github.com/SaikySu/Disentangling-statistics-and-normalization-in-second-order-descriptors-for-training-free-CD-FSL/blob/main/Fig/Fig1.png" width="720" alt="Boundary map of the statistic and normalization axes">
 </p>
 
 *Boundary map. (A-i) Which axis dominates in each condition after Benjamini–Hochberg correction,
